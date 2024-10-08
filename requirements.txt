@@ -1,5 +1,5 @@
 pip
-pyjanitor==0.26.0
+pyjanitor
 matplotlib
 missingno
 numpy
